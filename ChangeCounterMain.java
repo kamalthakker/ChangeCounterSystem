@@ -2,6 +2,8 @@ import java.awt.EventQueue;
 
 import javax.swing.UIManager;
 
+// Steve: Great Job! 
+// Kamal
 
 public class ChangeCounterMain {
 
@@ -21,6 +23,7 @@ public class ChangeCounterMain {
 //					// Do Nothing!
 //					// i.e. The look and feel is not set and therefore should be the default!
 //				}
+				
 				
 				new ChangeCounterMainFrame( );
 			}
